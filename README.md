@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-- services: Trafficmanager
-- platforms: java
+  services: Trafficmanager
+  platforms: java
 ---
 
 # Getting Started with Trafficmanager - Manage Simple Traffic Manager - in Java #
